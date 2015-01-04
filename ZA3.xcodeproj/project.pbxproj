@@ -6,10 +6,23 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		F905D4331A58F8C5004AE5BB /* zombieattack3.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = zombieattack3.py; sourceTree = "<group>"; };
+		F905D4341A590080004AE5BB /* gamesetup.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = gamesetup.py; sourceTree = "<group>"; };
+		F905D4351A590092004AE5BB /* za3gui.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = za3gui.py; sourceTree = "<group>"; };
+		F905D4361A59009F004AE5BB /* za3brain.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = za3brain.py; sourceTree = "<group>"; };
+		F905D4371A5900AA004AE5BB /* webspread.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = webspread.py; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		F905D4281A58F84D004AE5BB = {
 			isa = PBXGroup;
 			children = (
+				F905D4331A58F8C5004AE5BB /* zombieattack3.py */,
+				F905D4371A5900AA004AE5BB /* webspread.py */,
+				F905D4361A59009F004AE5BB /* za3brain.py */,
+				F905D4351A590092004AE5BB /* za3gui.py */,
+				F905D4341A590080004AE5BB /* gamesetup.py */,
 			);
 			sourceTree = "<group>";
 		};
