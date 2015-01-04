@@ -10,4 +10,3 @@ import za3brain #uses these functions to get things done, aka algorithms & etc
 #import webspread #controls web interface
 
 #loads gui
-
